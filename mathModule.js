@@ -13,6 +13,6 @@ export default function multiply(a, b) {
 }
 
 export function addAndLogUpper(a, b) {
-    const result = a + b; // Assuming you have an 'add' function defined
+    const result = a + b; 
     console.log(toUpperCase(result.toString()));
 }
